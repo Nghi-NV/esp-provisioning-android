@@ -2,10 +2,10 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.gofa</groupId>
-    <artifactId>gofa-speed-limit</artifactId>
-    <version>1.0.7</version>
-    <name>gofa-speed-limit</name>
+    <groupId>com.nghinv</groupId>
+    <artifactId>esp-idf-provisioning-android</artifactId>
+    <version>1.0.0</version>
+    <name>esp-idf-provisioning-android</name>
     <packaging>aar</packaging>
     <build>
         <plugins>
